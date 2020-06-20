@@ -19,12 +19,12 @@ Requiremants:
 
 Steps Required:
 ---------------
-Step-1) Run socket_client.py  #so that server gets started to begin application
-Step-2) Run gui.py  #so that application for chat start
+1) Run socket_client.py  #so that server gets started to begin application
+2) Run gui.py  #so that application for chat start
 
 Note:
 -----
-. There is also "gui.exe" file that user can run in its system and whole application will get installed with 
+1) There is also "gui.exe" file that user can run in its system and whole application will get installed with 
   all the setups and requirements
-. Only thing needed is python 3.x installed in system
+2) Only thing needed is python 3.x installed in system
 
